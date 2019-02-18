@@ -2,6 +2,7 @@
 layout: post
 title: "This is a test post using R"
 date: 2017-02-17
+categories: metros
 tags: test ggplot2
 ---
 
